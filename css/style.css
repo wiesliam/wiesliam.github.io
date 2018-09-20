@@ -1,5 +1,4 @@
 html{
-    background: #466368;
   	background: -webkit-linear-gradient(#a0d6ff, #d8eeff);
   	background:    -moz-linear-gradient(#a0d6ff, #d8eeff);
   	background:         linear-gradient(#a0d6ff, #d8eeff);
@@ -18,4 +17,10 @@ body{
 	display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+li{
+	text-decoration: none;
+	display:inline;
+	color: black;
 }
