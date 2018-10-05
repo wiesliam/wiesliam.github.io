@@ -107,3 +107,28 @@ a{
 p.advanced-class-1{
 	font-family: 'Raleway', sans-serif;
 }
+
+p.advanced-class-2{
+	font-family: 'Raleway', sans-serif;
+	color: blue;
+}
+
+p.advanced-class-3{
+	font-family: 'Raleway', sans-serif;
+	color: red;
+}
+
+p.advanced-class-4{
+	font-family: 'Raleway', sans-serif;
+	color: yellow;
+}
+
+p.advanced-class-5{
+	font-family: 'Raleway', sans-serif;
+	color: violet;
+}
+
+p.advanced-class-6{
+	font-family: 'Raleway', sans-serif;
+	color: grey;
+}
