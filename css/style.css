@@ -103,3 +103,7 @@ a{
 	grid-row-start:3;
 	grid-row-end:4;				
 }
+
+p.advanced-class-1{
+	font-family: 'Raleway', sans-serif;
+}
