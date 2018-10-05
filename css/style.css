@@ -115,7 +115,7 @@ p.advanced-class-2{
 
 p.advanced-class-3{
 	font-family: 'Raleway', sans-serif;
-	color: red;
+	background-color: coral;
 }
 
 p.advanced-class-4{
@@ -125,10 +125,10 @@ p.advanced-class-4{
 
 p.advanced-class-5{
 	font-family: 'Raleway', sans-serif;
-	color: violet;
+	background-color: teal;
 }
 
 p.advanced-class-6{
 	font-family: 'Raleway', sans-serif;
-	color: grey;
+	background-color: white;
 }
