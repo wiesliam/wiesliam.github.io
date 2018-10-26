@@ -140,6 +140,13 @@ p.advanced-class-6{
 	}
 }
 
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="center"] {
+        width: 100%;
+    }
+}
+
 @media only screen and (orientation: landscape) {
     body {
         background-color: lightyellow;
