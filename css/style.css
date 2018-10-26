@@ -140,4 +140,10 @@ p.advanced-class-6{
 	}
 }
 
+@media only screen and (orientation: landscape) {
+    body {
+        background-color: lightyellow;
+    }
+}
+
 
