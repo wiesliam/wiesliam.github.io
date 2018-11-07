@@ -66,12 +66,12 @@ p.advanced-class-6{
 	background-color: white;
 }
 
-@media only screen and (orientation: landscape) {
+@media only screen and (orientation: portrait) {
     body {
         background-color: lightyellow;
     }
-    [class*="center"] {
-        width: 100vw;
+    li{
+    	display: block;
     }
 }
 
