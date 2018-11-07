@@ -153,7 +153,12 @@ p.advanced-class-6{
 }
 
 @media screen and (min-width: 768px){
-
+	body{
+		background: lightblue;
+	}
+	[class*="center"] {
+        width: 75vw;
+    }
     .photo-gallery {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
