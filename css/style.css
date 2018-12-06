@@ -188,7 +188,7 @@ p.advanced-class-6{
 		background: lightblue;
 	}
 	[class*="center"] {
-        width: 75vw;
+        width: 60vw;
     }
     .photo-gallery {
 	display: grid;
