@@ -117,6 +117,9 @@ p.advanced-class-6{
     body {
         background-color: lightyellow;
     }
+    [class*="center"] {
+        width: 50vw;
+    }
     li{
     	display: block;
     }
