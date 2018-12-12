@@ -8,6 +8,9 @@
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+
     <title>Liam Wiesenberger</title>
 </head>
 <body>
@@ -26,6 +29,26 @@
             <h1>Liam Wiesenberger</h1><br>
         </header>
     <main>
+    <div class="your-class">
+        <div>your content</div>
+        <div>your content</div>
+         <div>your content</div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+    <script>
+    $(document).ready(function(){
+        $('.your-class').slick({
+            slidesToShow: 2,
+            slidesToScroll: 1,
+            autoplay: true,
+            autoplaySpeed: 5000,
+        });
+    });
+    </script>
     <img src="images/headshot.jpg" alt="Liam Wiesenberger headshot" class="center">
     <p id="main">Armed with a bachelor’s in Computer Science and pursuing a master’s in Information, I am passionate about human computer interaction, and a proponent for critical thought about the effects of computing on society. </p>
     <p class="advanced-class-1">You should hire me!</p>
