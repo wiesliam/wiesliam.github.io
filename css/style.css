@@ -67,6 +67,10 @@ body{
     width=600;
 }
 
+.skip-main{
+	background: white;
+}
+
 li{
 	text-decoration: none;
 	display:inline;
